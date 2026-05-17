@@ -1,11 +1,7 @@
 ````md
 # 🛒 PratikCart — Full Stack E-Commerce Platform
 
-![React](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react)
-![Django](https://img.shields.io/badge/Backend-Django-darkgreen?style=for-the-badge&logo=django)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![TailwindCSS](https://img.shields.io/badge/UI-TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![JWT](https://img.shields.io/badge/Auth-JWT-black?style=for-the-badge)
+
 
 A modern full-stack **E-Commerce Web Application** built using **React + Django REST Framework + PostgreSQL**.
 
